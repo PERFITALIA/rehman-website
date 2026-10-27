@@ -325,36 +325,6 @@
 
 <!---->
 
-<section class="sec-brand sec-brand7">
- <div class="container">
-  <div class="col-md-6">
-     <div class="brand-img"><img class="img-responsive wow zoomIn" src="images/protec-pic.png"></div>
-  </div>
-
-  <div class="col-md-6">
-     <div class="brand-text">
-        <div class="brand-logo"><img src="images/protec-logo.png"></div>
-        <h6 class="wow fadeInUp">We employ advanced techniques to bring high-quality safety products, such as stainless midsole, soft midsole, steel, composite, aluminium and fibre toe caps, etc. to the market. To ensure that quality is never compromised, our products are manufactured in our own factories in Kunshan City, Jiangsu Province, China.</h6>
-        <div class="row">
-         <div class="col-md-6">
-          <div class="brand-num">
-             <!--<h4 class="wow fadeInUp">80</h4>-->
-             <p class="boldTxts">Advanced technology</p>
-          </div>
-       </div>
-       <div class="col-md-6">
-          <div class="brand-num br-last">
-             <!--<h4 class="wow fadeInUp">ISO & CE</h4>-->
-             <p class="boldTxts">High-quality</p>
-          </div>
-       </div>
-    </div><!--row-->
-    <div class="visit-btn wow fadeInUp"><a href="http://www.protec-safety.com/en/index.php" target="_blank">Visit Protec Safety <img src="images/visit-perf-icon.svg"></a></div>
- </div><!--brand-text-->
-</div>
-
-</div>
-</section>
 
 
 

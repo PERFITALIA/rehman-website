@@ -88,7 +88,7 @@
    <?php echo $row['text'];?>
    </div>
    <div class="explore">
-	<a href=""  data-toggle="modal" data-target="#applymdl">Apply Now <img src="images/explore-icon.png"></a>
+	<a href="career.php#apply_now" >Apply Now <img src="images/explore-icon.png"></a>
    </div>
    </div>
    </div>

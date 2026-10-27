@@ -1,3 +1,4 @@
+<?php $isAboutPage = basename($_SERVER['PHP_SELF'] ?? '') === 'about-us.php'; ?>
 <header id="header">
     <div class="container hidden-xs">
         <div class="logo col-md-2">
@@ -20,13 +21,14 @@
          <!--  <li><a data="1" href="javascript:void(0);" class="new-navopen">Our Businesses  </a></li> 
           <li><a data="2" href="javascript:void(0);" class="new-navopen"> Our Products  </a></li>
           <li><a data="4" href="javascript:void(0);" class="new-navopen">Infrastructure  </a></li> -->
-          <li><a href="about-us.php" class="new-navopen">About Us</a></li>
           <li><a href="businesses.php" class="new-navopen">Businesses</a></li>
           <li><a href="products.php" class="new-navopen">Products</a></li>
           <li><a href="brands.php" class="new-navopen">Brands</a></li>
           <li><a href="companies.php" class="new-navopen">Group Companies</a></li>
+          <?php if ($isAboutPage): ?>
           <li><a href="csr.php" class="new-navopen">CSR & Sustainability</a></li>
           <li><a href="investor-relations.php" class="new-navopen">Investor Relations</a></li>
+          <?php endif; ?>
           <!--<li><a href="#" class="new-navopen"><img src="images/search-icon.png" alt="" /></a></li>-->
       </ul>
   </div>
@@ -56,13 +58,14 @@
 <div class="my-sidenav">
   <div class="cross-btn1">&times;</div>
   <ul>
-     <li><a href="about-us.php" class="new-navopen">About Us</a></li>
           <li><a href="businesses.php" class="new-navopen">Businesses</a></li>
           <li><a href="products.php" class="new-navopen">Products</a></li>
           <li><a href="brands.php" class="new-navopen">Brands</a></li>
           <li><a href="companies.php" class="new-navopen">Group Companies</a></li>
-          <li><a href="csr.php" class="new-navopen">CSR & Sustanability</a></li>
+          <?php if ($isAboutPage): ?>
+          <li><a href="csr.php" class="new-navopen">CSR & Sustainability</a></li>
           <li><a href="investor-relations.php" class="new-navopen">Investor Relations</a></li>
+          <?php endif; ?>
           <!--<li><a href="#" class="new-navopen"><img src="images/search-icon.png" alt="" /></a></li>-->
 </ul>
 </div>

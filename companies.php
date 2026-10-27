@@ -289,17 +289,17 @@
 
 
 <!---->
-<section class="comapny-sec">
+<section class="comapny-sec mainBox">
    <div class="container">
       <div class="col-md-6">
-         <div class="c-top-text">
+         <div class="c-top-text insideBox">
              <div class="flagItem">
                  <img src="images/south-africa-flag.png" alt="" class="southafrica wow zoomIn" />
                  <h4>South Africa</h4>
              </div>
-             <h3 class="wow fadeInUp">MOSSOP-WESTERN<span>LEATHERS</span></h3>
-             <p class="wow fadeInUp">A major supplier to local footwear manufacturers, MWL is the leading manufacturer of school shoe leather in South Africa and also exports leather to Europe, India and the Far East on a regular basis.</p>
-             <div class="visit-btn wow fadeInUp"><a href="https://mossop.co.za/" target="_blank">Visit Mossop-Western Leathers<img src="images/visit-perf-icon.svg"></a></div>
+             <h3 class="wow fadeInUp">MOSSOP LEATHER</h3>
+             <p class="wow fadeInUp">Mossop Leather, based in Wellington, Western Cape, South Africa, is the oldest tannery in the southern hemisphere, established in 1846. Renowned for high-quality leather production, it has evolved into a modern tannery with a capacity of 15 million feet annually. Accredited with a silver rating from the Leather Working Group in 2022, Mossop Leather emphasizes sustainability and quality. Focused on innovation and customer satisfaction, it serves both local and international footwear markets.</p>
+             <div class="visit-btn wow fadeInUp"><a href="https://mossop.co.za/" target="_blank">Visit Mossop Leather<img src="images/visit-perf-icon.svg"></a></div>
          </div><!--c-top-text-->
          <div class="c-btm-text">
             <h4 class="wow fadeInUp">Setting <span>standards</span></h4>
@@ -342,40 +342,17 @@
       <div class="col-md-6">
         <div class="c-top-text">
           <div class="flagItem">
-             <img src="images/china-flag.png" alt="" class="chinaM wow zoomIn" />
-             <h4>china</h4>
-         </div>
-         <h3 class="wow fadeInUp">KUNSHAN PROTEC SAFETY 
-           <span>PRODUCTS CO. LTD.</span></h3>
-           <p class="wow fadeInUp">Protec Safety produces high-quality safety products such as steel toe cap, stainless steel midsole, following European manufacturing processes from its factories located in Kunshan City, Jiangsu Province, China.</p>
-           <div class="visit-btn wow fadeInUp"><a href="http://www.protec-safety.com/en/index.php" target="_blank">Visit Kunshan Protec Safety Products <img src="images/visit-perf-icon.svg"></a></div>
-       </div><!--c-top-text-->
-       <div class="c-btm-text">
-         <h4 class="wow fadeInUp">High-quality</h4>
-         <h4 class="wow fadeInUp">Good-service</h4>
-     </div><!--c-btm-text-->
- </div>
-</div>
-<div class="comp-img"><img class="img-responsive wow zoomIn" src="images/kushan-protec-safety-img.jpg"></div>
-</section>
-<!---->
-<section class="comapny-sec comapny-sec1">
-   <div class="container">
-      <div class="col-md-6 col-md-offset-6">
-        <div class="c-top-text">
-         <div class="flagItem">
-             <img src="images/south-africa-flag.png" alt="" class="southafrica wow zoomIn" style="visibility: visible; animation-name: zoomIn;">
+             <img src="images/south-africa-flag.png" alt="" class="southafrica wow zoomIn" />
              <h4>South Africa</h4>
          </div>
-         <h3 class="wow fadeInUp">DRAWTEX</h3>
-         <p class="wow fadeInUp">Drawtex delivers innovative technologies that enhance wound healing. It has a dedicated international team based in South Africa to support its rapidly growing network of strategically chosen and experienced international distributors.</p>
-         <div class="visit-btn wow fadeInUp"><a href="https://drawtex.com/" target="_blank">Visit Drawtex <img src="images/visit-perf-icon.svg"></a></div>
-     </div><!--c-top-text-->
-     <div class="c-btm-text">
-        <h4 class="wow fadeInUp">Innovation</h4>
-        <h4 class="wow fadeInUp">Durability</h4>
-    </div><!--c-btm-text-->
-</div>
+          <h3 class="wow fadeInUp">DRAWTEX</h3>
+           <p class="wow fadeInUp">Drawtex delivers innovative technologies that enhance wound healing. It has a dedicated international team based in South Africa to support its rapidly growing network of strategically chosen and experienced international distributors.</p>
+           <div class="visit-btn wow fadeInUp"><a href="http://www.protec-safety.com/en/index.php" target="_blank">Visit Drawtex <img src="images/visit-perf-icon.svg"></a></div>       </div><!--c-top-text-->
+       <div class="c-btm-text">
+         <h4 class="wow fadeInUp">Innovation</h4>
+         <h4 class="wow fadeInUp">Durability</h4>
+     </div><!--c-btm-text-->
+ </div>
 </div>
 <div class="comp-img"><img class="img-responsive wow zoomIn" src="images/drawtex-img.jpg"></div>
 </section>

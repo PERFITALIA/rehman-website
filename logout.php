@@ -2,7 +2,7 @@
    session_start();
    unset($_SESSION["username"]);
    unset($_SESSION["password"]);
-  
-   $newURL="https://coolkaki.com/2021-22/rahman-group/investor-relations.php";
+   unset($_SESSION["valid"]);
+   $newURL="investor-relations.php";
   header('Location: '.$newURL);
 ?>

@@ -15,7 +15,7 @@
       </div>
       <div class="col-md-4">
         <div class="footxts">
-          <h3>About us</h3>
+          <h3><a href="about-us.php">About us</a></h3>
           <p>We are specialist in the manufacture of safety footwear, leather, personal
           protective gear and occupational safety equipment for worksites.</p>
 
@@ -41,7 +41,7 @@
              <li><a href="businesses.php" class="new-navopen">Businesses</a></li>
              <li><a href="products.php" class="new-navopen">Products</a></li>
              <li><a href="brands.php" class="new-navopen">Brands</a></li>
-             <li><a href="investor-relations.php" class="new-navopen">Investor Relations</a></li>
+             <!-- <li><a href="investor-relations.php" class="new-navopen">Investor Relations</a></li> -->
           </ul>
         </div>
       </div>
@@ -53,15 +53,15 @@
     <div class="col-md-6">
       <div class="quick-linksa-btm footer-right-side">
        <h5>RAHMAN INDUSTRIES LIMITED</h5>
-       <p>184/167, Wajidpur, Jajmau, <span>   
-       Kanpur - 208010 INDIA</span></p>
+       <p>Plot No. 19, Sec-90, <span>   
+       Noida-201304, Uttar Pradesh (India)</span></p>
      </div>
    </div>
    <div class="col-md-3">
     <div class="quick-linksa-btm">
      <h4>Connect with us at :</h4>
      <p>E-mail: <a href="mailto:info@rahman-group.com">info@rahman-group.com</a>
-    <span> Tel: <a href="tel:7392964989">+91-7392964989, 7392964990</a></span></p>
+    <span> Tel: <a href="tel:7392964989">+91-72900-48417, +91-72900-48418</a></span></p>
    </div>
  </div>
  <div class="col-md-3">

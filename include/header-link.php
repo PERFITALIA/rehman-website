@@ -1,5 +1,5 @@
 <?php 
-require('include/config.php');
+require_once('include/config.php');
 ?>
 <link rel="shortcut icon" href="images/favicon.svg" type="image/svg" />
 <link rel="stylesheet" href="css/bootstrap.min.css" type="text/css">
@@ -9,6 +9,5 @@ require('include/config.php');
 <link href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" type="text/css" rel="stylesheet">
 <link rel="stylesheet" href="css/style.css" type="text/css">
 <link rel="stylesheet" href="css/responsive.css" type="text/css">
-
 
 

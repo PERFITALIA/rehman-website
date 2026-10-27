@@ -5,12 +5,12 @@
    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
    <title>Rahman Group</title>
    <link rel="shortcut icon" href="images/favicon.jpg" type="image/jpg"/>
-   <meta name="description" content="We are specialists in the manufacture of leather, upholstery for furniture and automotive, personal protective and occupational safety equipment for worksites.">
+   <meta name="description" content="We are specialists in the manufacture of personal protective, leather, upholstery for furniture and automotive, and occupational safety equipment for worksites.">
 
    <meta property="og:title" content="Rahman Group" />
-   <meta property="og:description" content="We are specialists in the manufacture of leather, upholstery for furniture and automotive, personal protective and occupational safety equipment for worksites." />
+   <meta property="og:description" content="We are specialists in the manufacture of personal protective, leather, upholstery for furniture and automotive, and occupational safety equipment for worksites." />
    <meta name="twitter:title" content="Rahman Group">
-   <meta name="twitter:description" content="We are specialists in the manufacture of leather, upholstery for furniture and automotive, personal protective and occupational safety equipment for worksites.">
+   <meta name="twitter:description" content="We are specialists in the manufacture of personal protective, leather, upholstery for furniture and automotive, and occupational safety equipment for worksites.">
    <meta property="og:image" content="images/logo-og.png" />   
    <meta property="twitter:image" content="images/logo-og.png" />
    <?php  require("include/header-link.php"); ?>
@@ -336,7 +336,7 @@
 
 <div class="boxes moreBox "><img class="da-image" src="images/our-brands/logo6.png"><div class="overlay" style="top: 100%; left: 0%;"></div><a href="https://drawtex.com/" target="_blank"><img class="da-image hoverblock" src="images/our-brands/white-logo-6.png"></a></div>
 
-<div class="boxes moreBox "><img class="da-image" src="images/our-brands/logo8.png"><div class="overlay" style="top: 100%; left: 0%;"></div><a href="http://www.protec-safety.com/en/index.php" target="_blank"><img class="da-image hoverblock" src="images/our-brands/white-logo-8.png"></a></div>
+<!-- <div class="boxes moreBox "><img class="da-image" src="images/our-brands/logo8.png"><div class="overlay" style="top: 100%; left: 0%;"></div><a href="http://www.protec-safety.com/en/index.php" target="_blank"><img class="da-image hoverblock" src="images/our-brands/white-logo-8.png"></a></div> -->
 
 
 
@@ -370,7 +370,7 @@
                      E-Mail: <a href='mailto:info@perfitalia.com' target='_blank'>info@perfitalia.com</a><br>
                      Tel: +91-7290048417-18<br>
                      <a href='http://www.perf-safety.in' target='_blank'>www.perf-safety.in</a><br>
-                     <a href='http://www.peritalia.com' target='_blank'> www.peritalia.com</a> <br>
+                     <a href='http://www.perfitalia.com' target='_blank'> www.perfitalia.com</a> <br>
                      <b>Icon Design</b> <br>
                      184/167 Wajidpur, Jajmau Kanpur – 208010, India <br>
                      Email: <a href='mailto:info@icondesigns.in' target='_blank'>info@icondesigns.in</a> <br>
@@ -387,12 +387,12 @@
                         Blignaut Street, Wellington, 37654, Western Cape Province, South Africa<br>                        
                         E-Mail: <a href='mailto:sales@mossop.co.za' target='_blank'>sales@mossop.co.za</a><br>
                         Tel: +27 21 864 9300 <br>
-                        <a href='www.mossop.co.za' target='_blank'>www.mossop.co.za</a> <br>
+                        <a href='https://mossop.co.za/' target='_blank'>www.mossop.co.za</a> <br>
                         <b>Beier Drawtex Healthcare (Pty) Ltd.</b> <br>
                         37 Gillitts Road, Pinetown 3610, South Africa <br>                        
                         E-Mail : <a href='mailto:info@drawtex.com' target='_blank'>info@drawtex.com </a><br>
                         Tel:  +27 (0) 31 710 0400 <br>
-                        <a href='www.drawtex.com' target='_blank'>www.drawtex.com</a>
+                        <a href='https://drawtex.com/' target='_blank'>www.drawtex.com</a>
                         " data-para=""  data-image="images/south-africa-map-img1.png">South Africa</option>
 
                         <option  value="France"  data-title="Corporate Office :" data-subtitle=" <b>Lemaitre Sécurité SAS</b>
@@ -446,11 +446,11 @@
 
                                           " data-para=""  data-image="images/italy-map-img4.png">Italy</option>
 
-                                          <option  value="China"  data-title="Corporate Office :" data-subtitle="<b>Kunshan Protec Safety Products Co. Ltd. China</b><br> 
+                                          <!-- <option  value="China"  data-title="Corporate Office :" data-subtitle="<b>Kunshan Protec Safety Products Co. Ltd. China</b><br> 
                                              Add: No.16 Jinfa Road, Jinxi Town, Kunshan City, Jiangsu Province, China<br>                                             
                                              E-Mail: <a href='mailto:ripple@protec-safety.com' target='_blank'>ripple@protec-safety.com</a> <br>
                                              Tel: +86-512-50301310 <br>
-                                             " data-para=""  data-image="images/china.png">China</option>
+                                             " data-para=""  data-image="images/china.png">China</option> -->
 
 
 
@@ -483,7 +483,7 @@
                                                       E-Mail: <a href='mailto:info@perfitalia.com' target='_blank'>info@perfitalia.com</a><br>
                                                       Tel: +91-7290048417-18<br>
                                                       <a href='http://www.perf-safety.in' target='_blank'>www.perf-safety.in</a><br>
-                                                      <a href='http://www.peritalia.com' target='_blank'> www.peritalia.com</a> <br>
+                                                      <a href='http://www.perfitalia.com' target='_blank'> www.perfitalia.com</a> <br>
                                                       <b>Icon Design</b> <br>
                                                       184/167 Wajidpur, Jajmau Kanpur – 208010, India <br>
                                                       Email: <a href='mailto:info@icondesigns.in' target='_blank'>info@icondesigns.in</a> <br>

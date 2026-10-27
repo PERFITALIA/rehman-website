@@ -1,3 +1,38 @@
+<div id="myModal1" class="cmnmdl modal fade in" role="dialog">
+ <div class="modal-dialog">
+   <img class="close" data-dismiss="modal" src="images/cross.webp" width="30" height="30">
+   <!-- Modal content-->
+   <div class="modal-content">
+<div class="modal-header">
+       <button type="button" class="close" data-dismiss="modal">x</button>
+</div>
+      <div class="modal-body">
+       <div class="row">
+        <div class="investRelate investRelateNw">
+         <div class="col-md-12">
+          <h3 class="wow fadeInUp">Login</h3>
+       </div>
+       <form action="/login.php" method="post">
+         <div class="col-md-12">
+            <div class="form-group">
+               <label class="wow fadeInUp">Email</label>
+               <input type="text" name="email" class="form-control">
+            </div>
+         </div>
+         <div class="col-md-12">
+            <div class="form-group">
+               <label class="wow fadeInUp">Password</label>
+               <input type="password" name="password" class="form-control">
+            </div>
+         </div>
+         <div class="col-md-12">
+            <button type="submit" name="login" class="btn btn-default">Sign In</button>
+         </div>   
+         
+      </form>
+      
+   </div>
+</div>
 <script src="js/jquery-3.2.1.min.js"></script> 
 <script src="js/grt-youtube-popup.js"></script>
 <script src="js/bootstrap.min.js"></script> 

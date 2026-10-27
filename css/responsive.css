@@ -595,6 +595,10 @@
 
 @media (max-width: 991px) {
 /*  mysidenav  */
+.cmnmdl .modal-dialog {
+  width: 100%;
+  margin: 80px auto;
+}
 .menutxt .blueham {
     display: none;
 }

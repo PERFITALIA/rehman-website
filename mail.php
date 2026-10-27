@@ -32,9 +32,9 @@ $mail->Host = "smtp.office365.com"; // use $mail->Host = gethostbyname('smtp.gma
 $mail->Port = 587; // TLS only
 $mail->SMTPSecure = 'tls'; // ssl is depracated
 $mail->SMTPAuth = true;
-$mail->Username = 'info@rahman-group.com';
-$mail->Password = 'KJIUYHNBbowh@7654rt@!';
-$mail->setFrom('info@rahman-group.com', 'Rahman Gropu');
+$mail->Username = 'DONOTREPLY@rahman-group.com';
+$mail->Password = 'LKJOnows@32w#4erdr6~&';
+$mail->setFrom('DONOTREPLY@rahman-group.com', 'Rahman Gropu');
 $mail->addAddress('info@rahman-group.com', 'Rahman Group');
 $mail->Subject = 'New Get In Touch Enquiry';
 $mail->msgHTML("
@@ -69,7 +69,7 @@ $mail->msgHTML("
 if(!$mail->send()){
     echo "Mailer Error: " . $mail->ErrorInfo;
 }else{
-  header("Location: https://coolkaki.com/2021-22/rahman-group/contact-us?status=true");
+  header("Location: https://www.rahman-group.com/contact-us.php?status=true");
 
 }    
     
@@ -97,9 +97,9 @@ $mail->Host = "smtp.office365.com"; // use $mail->Host = gethostbyname('smtp.gma
 $mail->Port = 587; // TLS only
 $mail->SMTPSecure = 'tls'; // ssl is depracated
 $mail->SMTPAuth = true;
-$mail->Username = 'info@rahman-group.com';
-$mail->Password = 'KJIUYHNBbowh@7654rt@!';
-$mail->setFrom('info@rahman-group.com', 'Rahman Group');
+$mail->Username = 'DONOTREPLY@rahman-group.com';
+$mail->Password = 'LKJOnows@32w#4erdr6~&';
+$mail->setFrom('DONOTREPLY@rahman-group.com', 'Rahman Group');
 $mail->addAddress('info@rahman-group.com', 'Rahman Group');
 $mail->Subject = 'New Product Enquiry';
 $mail->msgHTML("
@@ -169,9 +169,9 @@ $mail->Host = "smtp.office365.com"; // use $mail->Host = gethostbyname('smtp.gma
 $mail->Port = 587; // TLS only
 $mail->SMTPSecure = 'tls'; // ssl is depracated
 $mail->SMTPAuth = true;
-$mail->Username = 'info@rahman-group.com';
-$mail->Password = 'KJIUYHNBbowh@7654rt@!';
-$mail->setFrom('info@rahman-group.com', 'Rahman Group');
+$mail->Username = 'DONOTREPLY@rahman-group.com';
+$mail->Password = 'LKJOnows@32w#4erdr6~&';
+$mail->setFrom('DONOTREPLY@rahman-group.com', 'Rahman Group');
 $mail->addAddress('hrho.recruitment@rahman-group.com', 'Rahman HR');
 $mail->Subject = 'New Career Enquiry';
 $mail->msgHTML("
@@ -210,7 +210,7 @@ if(!$mail->send()){
     echo "Mailer Error: " . $mail->ErrorInfo;
 }else{
    
-  header("Location: https://coolkaki.com/2021-22/rahman-group/careers.php?status=true");
+  header("Location: https://www.rahman-group.com/career.php?status=true");
 
 }   
 }
